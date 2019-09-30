@@ -1,3 +1,4 @@
+https://travis-ci.org/bettermanzzy2/zstd.svg?branch=dev
 <p align="center"><img src="https://raw.githubusercontent.com/facebook/zstd/dev/doc/images/zstd_logo86.png" alt="Zstandard"></p>
 
 __Zstandard__, or `zstd` as short version, is a fast lossless compression algorithm,
@@ -10,6 +11,7 @@ Should your project require another programming language,
 a list of known ports and bindings is provided on [Zstandard homepage](http://www.zstd.net/#other-languages).
 
 **Development branch status:**
+https://travis-ci.org/bettermanzzy2/zstd.svg?branch=dev
 
 [![Build Status][travisDevBadge]][travisLink]
 [![Build status][AppveyorDevBadge]][AppveyorLink]
