@@ -221,3 +221,6 @@ matrix:
         - cat "$TRAVIS_BUILD_DIR"/builddir/meson-logs/testlog.txt
   allow_failures:
     - env: ALLOW_FAILURES=true
+env:
+  global:
+    - CODECOV_TOKEN=:ed0d514f-3579-4841-a6bb-b69792d8cd24
